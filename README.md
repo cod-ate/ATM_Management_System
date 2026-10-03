@@ -18,7 +18,7 @@ C++ ATM Management System project for Linux
 
 ## Compile
 ```bash
-g++ -std=c++17 main.cpp -o atm
+g++ main.cpp -o atm
 ./atm
 ```
 
